@@ -11,6 +11,10 @@
     <header>
         <h1>{APP_NAME}</h1>
     </header>
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/runes">Runes Example</a></li>        
+    </ul>
 
     <main>
         {@render children()}
